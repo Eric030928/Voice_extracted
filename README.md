@@ -1,4 +1,8 @@
 # Voice_extracted
+## How to run it?
+   run the program
+## Tutorials
+   Read the video, and the program will output the clean audio
 ## Principle
 1. **Video to Audio**: Use the ffmpy3 library to extract audio from the uploaded video.
 2. **Voice Activity Detection (VAD)**: Use the Silero VAD model to detect voice segments and merge them.
