@@ -1,4 +1,7 @@
 # Voice_extracted
+## Background
+   When you would like to extract someone's clear voice from a noisy video(with BGM or anything), this project can fully fulfill what you need;
+   You only need to upload the video and wait it be changed into a clear audio with merely the voice from the person
 ## How to run it?
 1. Make sure you have imported the packages
 2. run Voice_extract.py
