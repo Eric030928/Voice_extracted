@@ -194,8 +194,8 @@ if __name__ == '__main__':
     """
     主程序流程：从输入目录中读取视频文件，提取音频，检测语音片段，分离人声，进行降噪处理，最终输出处理后的人声音频。
     """
-    input_dir = r"/Volumes/文枢工作空间/input"
-    output_dir = r"/Users/zhanshiquan/Downloads/输出/人物"
+    input_dir = r""
+    output_dir = r""
     mkdir_output(output_dir)
 
     file_counter = 1
